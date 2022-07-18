@@ -1,6 +1,6 @@
 # UHI_Innovation_Challenge_2_Group_consultation_app_final_submission
 
-1. EUA_Android_App Installation Instructions:
+**EUA_Android_App Installation Instructions:**
 
 a) Start Android Studio and close any open Android Studio projects.
 
